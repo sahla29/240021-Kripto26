@@ -24,4 +24,4 @@ Program memiliki 4 menu utama:
 
 ## Screenshot Running Program
 
-![Screenshot Running Program](screenshot-running.png)
+![Screenshot Running Program](screenshot-running.jpeg)
